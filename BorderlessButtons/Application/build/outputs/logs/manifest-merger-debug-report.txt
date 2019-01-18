@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/jacqueline/BorderlessButtons/Application/src/main/AndroidManifest.xml:17:1-48:12
+INJECTED from /home/jacqueline/BorderlessButtons/Application/src/main/AndroidManifest.xml:17:1-48:12
+INJECTED from /home/jacqueline/BorderlessButtons/Application/src/main/AndroidManifest.xml:17:1-48:12
+MERGED from [com.android.support:support-v13:27.0.2] /home/jacqueline/.gradle/caches/transforms-1/files-1.1/support-v13-27.0.2.aar/d09d2a2f2b707822f9485c1af152ab57/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] /home/jacqueline/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/4aa1e3ddd7793c80cebcccfb71088ac8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/jacqueline/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/768f138055351f8606375785bb9477ad/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/jacqueline/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/dfc28775c6b56619766fb70125a69ba8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/jacqueline/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/d50ac09378170b46323cb768810242ad/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /home/jacqueline/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/0561c29f34e7e8ef638438c9345c9bc7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/jacqueline/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/056f85a3e6e1174b3150ab01dbb11aa3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/jacqueline/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/d8460bcbb8d4fe7ec8553049f19071d1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/jacqueline/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/79fe226763006c5c9bd2b20f153ead1a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/jacqueline/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/e8e3ce609e04b35bfd750bd2093ed7ac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /home/jacqueline/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/71da89f5480e87fad6aec275ea029e51/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/jacqueline/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/dce7a24fb57a96c7286d80621e994980/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/jacqueline/BorderlessButtons/Application/src/main/AndroidManifest.xml:17:1-48:12
+INJECTED from /home/jacqueline/BorderlessButtons/Application/src/main/AndroidManifest.xml:17:1-48:12
+	package
+		ADDED from /home/jacqueline/BorderlessButtons/Application/src/main/AndroidManifest.xml:18:5-52
+	android:versionName
+		ADDED from /home/jacqueline/BorderlessButtons/Application/src/main/AndroidManifest.xml:20:5-30
+		INJECTED from /home/jacqueline/BorderlessButtons/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/jacqueline/BorderlessButtons/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/jacqueline/BorderlessButtons/Application/src/main/AndroidManifest.xml:17:11-69
+	android:versionCode
+		ADDED from /home/jacqueline/BorderlessButtons/Application/src/main/AndroidManifest.xml:19:5-28
+		INJECTED from /home/jacqueline/BorderlessButtons/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/jacqueline/BorderlessButtons/Application/src/main/AndroidManifest.xml
+application
+ADDED from /home/jacqueline/BorderlessButtons/Application/src/main/AndroidManifest.xml:33:5-46:19
+	android:label
+		ADDED from /home/jacqueline/BorderlessButtons/Application/src/main/AndroidManifest.xml:33:18-50
+	android:icon
+		ADDED from /home/jacqueline/BorderlessButtons/Application/src/main/AndroidManifest.xml:34:9-45
+	android:allowBackup
+		ADDED from /home/jacqueline/BorderlessButtons/Application/src/main/AndroidManifest.xml:36:9-35
+	android:theme
+		ADDED from /home/jacqueline/BorderlessButtons/Application/src/main/AndroidManifest.xml:35:9-44
+activity#com.example.android.borderlessbuttons.MainActivity
+ADDED from /home/jacqueline/BorderlessButtons/Application/src/main/AndroidManifest.xml:38:9-44:20
+	android:label
+		ADDED from /home/jacqueline/BorderlessButtons/Application/src/main/AndroidManifest.xml:39:13-45
+	android:name
+		ADDED from /home/jacqueline/BorderlessButtons/Application/src/main/AndroidManifest.xml:38:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/jacqueline/BorderlessButtons/Application/src/main/AndroidManifest.xml:40:13-43:29
+action#android.intent.action.MAIN
+ADDED from /home/jacqueline/BorderlessButtons/Application/src/main/AndroidManifest.xml:41:17-69
+	android:name
+		ADDED from /home/jacqueline/BorderlessButtons/Application/src/main/AndroidManifest.xml:41:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/jacqueline/BorderlessButtons/Application/src/main/AndroidManifest.xml:42:17-77
+	android:name
+		ADDED from /home/jacqueline/BorderlessButtons/Application/src/main/AndroidManifest.xml:42:27-74
+uses-sdk
+INJECTED from /home/jacqueline/BorderlessButtons/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/jacqueline/BorderlessButtons/Application/src/main/AndroidManifest.xml
+INJECTED from /home/jacqueline/BorderlessButtons/Application/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v13:27.0.2] /home/jacqueline/.gradle/caches/transforms-1/files-1.1/support-v13-27.0.2.aar/d09d2a2f2b707822f9485c1af152ab57/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.0.2] /home/jacqueline/.gradle/caches/transforms-1/files-1.1/support-v13-27.0.2.aar/d09d2a2f2b707822f9485c1af152ab57/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /home/jacqueline/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/4aa1e3ddd7793c80cebcccfb71088ac8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /home/jacqueline/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/4aa1e3ddd7793c80cebcccfb71088ac8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/jacqueline/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/768f138055351f8606375785bb9477ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/jacqueline/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/768f138055351f8606375785bb9477ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/jacqueline/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/dfc28775c6b56619766fb70125a69ba8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/jacqueline/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/dfc28775c6b56619766fb70125a69ba8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/jacqueline/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/d50ac09378170b46323cb768810242ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/jacqueline/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/d50ac09378170b46323cb768810242ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/jacqueline/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/0561c29f34e7e8ef638438c9345c9bc7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/jacqueline/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/0561c29f34e7e8ef638438c9345c9bc7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/jacqueline/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/056f85a3e6e1174b3150ab01dbb11aa3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/jacqueline/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/056f85a3e6e1174b3150ab01dbb11aa3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/jacqueline/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/d8460bcbb8d4fe7ec8553049f19071d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/jacqueline/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/d8460bcbb8d4fe7ec8553049f19071d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/jacqueline/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/79fe226763006c5c9bd2b20f153ead1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/jacqueline/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/79fe226763006c5c9bd2b20f153ead1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/jacqueline/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/e8e3ce609e04b35bfd750bd2093ed7ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/jacqueline/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/e8e3ce609e04b35bfd750bd2093ed7ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/jacqueline/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/71da89f5480e87fad6aec275ea029e51/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/jacqueline/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/71da89f5480e87fad6aec275ea029e51/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/jacqueline/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/dce7a24fb57a96c7286d80621e994980/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/jacqueline/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/dce7a24fb57a96c7286d80621e994980/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/jacqueline/BorderlessButtons/Application/src/main/AndroidManifest.xml
+INJECTED from /home/jacqueline/BorderlessButtons/Application/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/jacqueline/BorderlessButtons/Application/src/main/AndroidManifest.xml
+		ADDED from /home/jacqueline/BorderlessButtons/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/jacqueline/BorderlessButtons/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/jacqueline/BorderlessButtons/Application/src/main/AndroidManifest.xml
+		ADDED from /home/jacqueline/BorderlessButtons/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/jacqueline/BorderlessButtons/Application/src/main/AndroidManifest.xml
